@@ -1,1 +1,1 @@
-My Project case studies
+Data Science Project case studies
